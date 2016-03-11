@@ -1,1 +1,3 @@
-# v.0
+####Ekip Üyeleri
+
+* [Oğuzhan Taşcı](http://github.com/oguzhantasci)
