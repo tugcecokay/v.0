@@ -3,23 +3,32 @@
 
 ####Projenin Konusu:  
 
-Herkese açık profil oluşturulan, fotoğraf paylaşılarak arkadaşlarına fotoğraftakinin ne olduğunu soran bir web tabanlı sosyal ağ projesi. 
+Herkesin kendi profilini oluşturabildiği, fotoğraf paylaşarak arkadaşlarına ve platformu kullananlara fotograf ile ilgili sorular sorabildiği web tabanlı sosyal ağ projesi.
 
 ####Proje Özeti: 
 
-Bu proje sayesinde kişiler arasında fotoğraflar üzerinden bağlantı kurularak “Bu nedir?” sorusuna kendi yöntemlerimizle cevap bulmaya çalışacağız. 4 kişilik bir ekiple 3 platforma (Android, IOS, Web) uygulama çıkarmaya çalışacağız. 
+Bu proje sayesinde kişiler fotograflar ile birbiriyle etkileşime geçerek fotograflar üzerinden "Bu nedir?" , "Bunu nerden bulurum?" , "Bunun fiyatı nedir?" gibi sorulara cevap bulabileceği bir platformdur. Proje Mobil(Android & iOS) ve Web(Web Service & Web) üzerinden gerçeklenmektedir.
+ 
 
-####Projenin Kapsamı: Bu projeye nelerin dâhil olduğu, nelerin proje dışı olduğu belirtilir. (Bu sorulara net cevap veremedim)
+####Projenin Kapsamı: 
+
+
 
 ####Projenin genel işleyişi;
 
-Kişiler oluşturdukları açık profilleri ile fotoğrafını çektikleri objenin tam olarak ne olduğunu kişilere danışmak için paylaştığı bir sosyal ağ projesidir (devrik cümle :) ) 
+Kişi platform ile karşılaştığında aşağıda yer alan adımları sırasıyla takip ederek platformu kullanabilecektir.
 
-
-Ürünün kapsamı detaylandırılır. Ürünün özellikleri ve işlevleri belirtilir. Proje kapsamında ürünün özellik ve işlevleri için yapılması gereken çalışmalar detaylandırılır.
+- Sisteme giriş (Kullanıcı Girişi - Kullanıcı Kaydı)
+- Onay epostasının cevaplanması
+- Ana ekran
+ - Profil CRUD(Create-Read-Update-Delete)
+ - Soru CRUD
+   - Soru Detayları
+ - Arkadaşlık CRUD
 
 ####Projenin sağladığı faydalar (amaç): 
-Projenin ne için yapıldığını yazınız. Proje sonucunda çıkan ürünün sağlayacağı faydaları sıralayınız. 
+
+
 
 ####Projenin kaynakları:
 
@@ -28,5 +37,5 @@ Projenin ne için yapıldığını yazınız. Proje sonucunda çıkan ürünün 
  - Tuğçe ÇOKAY
  - Pelin TUNÇ
 
-Web platformuna ürün çıkarmak için PHP frameworkü olarak yer alan ve güvenlik açısından bizlere büyük kolaylıklar sağlayan Symfony veya Laravel kullanılacaktır. Mobil uygulamalar içinde native olarak Android (JAVA) ve IOS(Swift) platformlarına ürün geliştirilecektir.
-
+Web platformuna ürün çıkarmak için PHP veya frameworkleri tercih edilecektir. 
+Mobil uygulamalar içinde native(Android(JAVA) ve IOS(Swift)) ve/veya hibrid(Javascript Frameworks) teknolojileri kullanılacaktır.
