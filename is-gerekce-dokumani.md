@@ -3,7 +3,7 @@
 
 ####Projenin Konusu:  
 
-Herkesin kendi profilini oluşturabildiği, fotoğraf paylaşarak arkadaşlarına ve platformu kullananlara fotograf ile ilgili sorular sorabildiği web tabanlı sosyal ağ projesi.
+Herkesin kendi profilini oluşturabildiği, fotoğraf paylaşarak arkadaşlarına ve platformu kullananlara fotograftaki objeler ile ilgili sorular sorabildiği web tabanlı sosyal ağ projesi.
 
 ####Proje Özeti: 
 
@@ -28,6 +28,8 @@ Kişi platform ile karşılaştığında aşağıda yer alan adımları sırası
 
 ####Projenin sağladığı faydalar (amaç): 
 
+ - Soru sorma eyleminin görseller yardımıyla desteklenmesi.
+ - Daha önce kişinin hiç karşılaşmadığını düşündüğü ya da ismini bilmediği bitki, hayvan ya da objelerin fotoğraflarının paylaşılması ve bunlar hakkında bilgisi olan kişilerin yorumuyla bilgi paylaşımını arttırmak. 
 
 
 ####Projenin kaynakları:
