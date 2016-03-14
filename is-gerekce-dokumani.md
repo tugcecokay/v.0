@@ -20,10 +20,10 @@ Kişiler oluşturdukları açık profilleri ile fotoğrafını çektikleri objen
 
 * Projenin kaynakları: Proje ekibi ve yazılım donanım ihtiyaçları yazılır.
 
-Oğuzhan TAŞÇI
-Kurtuluş Ahmet TEMEL
-Tuğçe ÇOKAY
-Pelin TUNÇ
+ - Oğuzhan TAŞÇI
+ - Kurtuluş Ahmet TEMEL
+ - Tuğçe ÇOKAY
+ - Pelin TUNÇ
 
 Web platformuna ürün çıkarmak için PHP frameworkü olarak yer alan ve güvenlik açısından bizlere büyük kolaylıklar sağlayan Symfony veya Laravel kullanılacaktır. Mobil uygulamalar içinde native olarak Android (JAVA) ve IOS(Swift) platformlarına ürün geliştirilecektir.
 
