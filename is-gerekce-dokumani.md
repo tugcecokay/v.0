@@ -7,7 +7,7 @@ Herkesin kendi profilini oluşturabildiği, fotoğraf paylaşarak arkadaşların
 
 ####Proje Özeti: 
 
-Bu proje sayesinde kişiler fotograflar ile birbiriyle etkileşime geçerek fotograflar üzerinden "Bu nedir?" , "Bunu nerden bulurum?" , "Bunun fiyatı nedir?" gibi sorulara cevap bulabileceği bir platformdur. Proje Mobil(Android & iOS) ve Web(Web Service & Web) üzerinden gerçeklenmektedir.
+Bu proje sayesinde kişiler fotograflar ile birbiriyle etkileşime geçerek fotograflar üzerinden ```Bu nedir?``` , ```Bunu nerden bulurum?``` , ```Bunun fiyatı nedir?``` gibi sorulara cevap bulabileceği bir platformdur. Proje Mobil(Android & iOS) ve Web(Web Service & Web) üzerinden gerçeklenmektedir.
  
 
 ####Projenin Kapsamı: 
